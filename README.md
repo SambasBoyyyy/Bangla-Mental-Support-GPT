@@ -1,1 +1,1 @@
-# Bangla-Mental-Support-GPT
+# Bangla-Mental-Support-GPT - Lora FineTuning a Llama 3.1 8B Instruct Model on Bangla Empathic Dataset
